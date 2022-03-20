@@ -36,7 +36,7 @@ On a trouvé que la variabilité cumule pour les 10 premiers composants égal
 
 4. Prétraitement :
   5. Normalisation:
-  6
+  
 
 6. ACP :
   7. Graphiques des valeurs propres :
